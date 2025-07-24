@@ -34,7 +34,3 @@ This project analyzes and predicts whether a customer is likely to default on th
 ```bash
 
 
-###2️⃣ Run Streamlit App
-streamlit run credit_score_app.py
-
-python train_credit_model.py

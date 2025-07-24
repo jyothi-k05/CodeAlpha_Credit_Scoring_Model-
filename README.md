@@ -29,7 +29,7 @@ This project analyzes and predicts whether a customer is likely to default on th
 
 ## 🛠 How to Run
 
-### 1️⃣ Train Models (optional)
+### 1️⃣ Train Models & Run the Streamlit(optional)
 
 ```bash
 python train_credit_model.py

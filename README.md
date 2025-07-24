@@ -32,5 +32,5 @@ This project analyzes and predicts whether a customer is likely to default on th
 ### 1️⃣ Train Models (optional)
 
 ```bash
-
+python train_credit_model.py
 
